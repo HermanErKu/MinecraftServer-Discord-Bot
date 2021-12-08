@@ -5,6 +5,8 @@ Have you ever wanted a discord bot that started your Minecraft server?
 # Setup
 This quick guide will show you how to create a Discord Bot and wire it up to your Python script.
 
+
+
 ### Setting up the bot
 Setting up a Discord bot is much easier than you may think if you do it for your first time.
 Here is how to do it:
