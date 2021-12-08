@@ -29,7 +29,7 @@ When you host a minecraft server on your pc, you most likely start it with a "st
 This bot will run that "start.bat" file for you:
 1. Place the bot code in the same folder as your server
 2. Copy the file placement for the start file    
-example : (C:\users\bot\desktop\server\start.bat)
+example : (C:\users\admin\desktop\server\start.bat)
 3. Paste it into the code under the "!startserver" command
 
 
