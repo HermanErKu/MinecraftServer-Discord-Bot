@@ -30,7 +30,7 @@ This bot will run that "start.bat" file for you:
 1. Place the bot code in the same folder as your server
 2. Copy the file placement for the start file    
 example : (C:\users\admin\desktop\server\start.bat)
-3. Paste it into the code under the "!startserver" command
+3. Paste it into the code under the "!startserver" command [here](https://github.com/HermanErKu/MinecraftServer-Discord-Bot/blob/main/main.py#L32)
 
 
 ## Use
